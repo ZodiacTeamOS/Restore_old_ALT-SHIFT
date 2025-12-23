@@ -1,6 +1,6 @@
 # Zodiac_LayoutTool
 
-Restore_old_ALT-SHIFT
+Restore old ALT+SHIFT to windows 11
 
 ### Launch Command
 #### Stable Branch 
